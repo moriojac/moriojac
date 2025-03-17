@@ -2,7 +2,7 @@
 
 <h2>Data Analytics Projects:</h2>
 
-  - [Worship Service Data Analysis: Trends and Insights (2025)](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Worship Service Data Analysis: Trends and Insights (2025)](https://github.com/moriojac/WorshipProject/tree/main)
   - [Student Demographics in Washington: A Visual Analysis (2024)](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
   - [NBA Injury Explorer: Insights for Prevention (2023)](https://github.com/joshmadakor1/Sentinel-Lab)
 
