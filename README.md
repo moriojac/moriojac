@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jacob! <br/><a href="https://github.com/moriojac">Data Analyst</a>
+<h1>Hi, I'm Jacob Moriones! <br/><a href="https://github.com/moriojac">Data Analyst</a>
 
 <h2>Data Analytics Projects:</h2>
 
