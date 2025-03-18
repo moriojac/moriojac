@@ -4,7 +4,7 @@
 
   - [Worship Service Data Analysis: Trends and Insights (2025)](https://github.com/moriojac/WorshipProject/tree/main)
   - [Student Demographics in Washington: A Visual Analysis (2024)](https://github.com/moriojac/WAstudentsProject/tree/main) 
-  - [NBA Injury Explorer: Insights for Prevention (2023)](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [NBA Injury Explorer: Insights for Prevention (2023)](https://github.com/moriojac/InjuryProject/tree/main)
 
 
 <h2> Connect with me:</h2>
