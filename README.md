@@ -2,9 +2,9 @@
 
 <h2>Data Analytics Projects:</h2>
 
+  - [Student Demographics in Washington: A Visual Analysis (2025)](https://github.com/moriojac/WAstudentsProject/tree/main) 
   - [Worship Service Data Analysis: Trends and Insights (2025)](https://github.com/moriojac/WorshipProject/tree/main)
-  - [Student Demographics in Washington: A Visual Analysis (2024)](https://github.com/moriojac/WAstudentsProject/tree/main) 
-  - [NBA Injury Explorer: Insights for Prevention (2023)](https://github.com/moriojac/InjuryProject/tree/main)
+  - [NBA Injury Explorer: Insights for Prevention (2024)](https://github.com/moriojac/InjuryProject/tree/main)
 
 
 <h2> Connect with me:</h2>
