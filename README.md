@@ -2,6 +2,7 @@
 
 <h2>Data Analytics Projects:</h2>
 
+  - [Depop 2024 Sales Explorer: Sales Trends and Profit Insights (2025)](https://github.com/moriojac/DepopProject/tree/main) 
   - [Student Demographics in Washington: A Visual Analysis (2025)](https://github.com/moriojac/WAstudentsProject/tree/main) 
   - [Worship Service Data Analysis: Trends and Insights (2025)](https://github.com/moriojac/WorshipProject/tree/main)
   - [NBA Injury Explorer: Insights for Prevention (2024)](https://github.com/moriojac/InjuryProject/tree/main)
