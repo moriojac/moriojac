@@ -6,7 +6,7 @@ Student at Central Washington University pursuing a Bachelor of Science Degree i
 
   - [Depop Sales Dashboard: A Performance Breakdown (2025)](https://github.com/moriojac/DepopProject/tree/main) 
   - [Student Demographics in Washington: A Visual Analysis (2025)](https://github.com/moriojac/WAstudentsProject/tree/main)
-  - [Forage Job Simulation: Data Visualisation - Empowering Business with Effective Insights (2025)](https://github.com/moriojac/ForageProject/tree/main) 
+  - [Forage Job Simulation: Empowering Business with Effective Insights (2025)](https://github.com/moriojac/ForageProject/tree/main) 
   - [Worship Service Data Analysis: Trends and Insights (2025)](https://github.com/moriojac/WorshipProject/tree/main)
   - [NBA Injury Explorer: Insights for Prevention (2024)](https://github.com/moriojac/InjuryProject/tree/main)
   - [2024 U.S Presidential Election Visualizations (2024)](https://github.com/moriojac/2024ElectionProject/tree/main)
