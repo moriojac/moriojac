@@ -18,6 +18,7 @@ Student at Central Washington University pursuing a Bachelor of Science Degree i
 
 [instagram]: https://www.instagram.com/moriojac/
 [linkedin]: https://www.linkedin.com/in/jacob-moriones-2694232bb
+<a href="moriojac@gmail.com">moriojac@gmail.com</a>
 
 
 
