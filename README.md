@@ -1,5 +1,5 @@
-<h1>Hi, I'm Jacob Moriones! <br/><a 
-
+<h1>Hi, I'm Jacob Moriones! <br/>
+<br><br>
 <h2>Data Analytics Projects:</h2>
 
   - [Depop Sales Dashboard: A Performance Breakdown (2025)](https://github.com/moriojac/DepopProject/tree/main) 
