@@ -1,4 +1,5 @@
-<h1>Hi, I'm Jacob Moriones! </h1>
+<h1>Hi, I'm Jacob Moriones!</h1>
+Student at Central Washington University pursuing a Bachelor of Science Degree in Information Technology Administrative Management with a focus on Data Driven Innovation for IT Managers
 <br>
 
 <h2>Data Analytics Projects:</h2>
