@@ -4,7 +4,8 @@ Recent Central Washington University graduate with a Bachelor of Science in Info
 
 <h2>Data Analytics Projects:</h2>
 
-  - [Product Allocation Dashboard (2026)](https://github.com/moriojac/AllocationProject/tree/main) 
+  - [Vendor Dashboard (2026)](https://github.com/moriojac/VendorProject/tree/main)
+  - [Product Allocation Dashboard (2026)](https://github.com/moriojac/AllocationProject/tree/main)
   - [Depop Sales Dashboard: A Performance Breakdown (2025)](https://github.com/moriojac/DepopProject/tree/main) 
   - [Student Demographics in Washington: A Visual Analysis (2025)](https://github.com/moriojac/WAstudentsProject/tree/main)
   - [Forage Job Simulation: Empowering Business with Effective Insights (2025)](https://github.com/moriojac/ForageProject/tree/main) 
