@@ -4,7 +4,7 @@ Recent Central Washington University graduate with a Bachelor of Science in Info
 
 <h2>Data Analytics Projects:</h2>
 
-  - [Purchase Order Performance Dashboard (2026)](https://github.com/moriojac/PurchaseOrderProject/tree/main)
+  - [Purchasing Performance Dashboard (2026)](https://github.com/moriojac/PurchasingProject/tree/main)
   - [Product Allocation Dashboard (2026)](https://github.com/moriojac/AllocationProject/tree/main)
   - [Depop Sales Dashboard: A Performance Breakdown (2025)](https://github.com/moriojac/DepopProject/tree/main) 
   - [Student Demographics in Washington: A Visual Analysis (2025)](https://github.com/moriojac/WAstudentsProject/tree/main)
